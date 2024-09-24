@@ -3,7 +3,6 @@ from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense
 
 
-
 def build_models():
     
     tf.random.set_seed(20)
@@ -57,7 +56,7 @@ def build_models():
         ],
         name='model_5'
     )
-    model_list = [model_1, model_2, model_3, model_4, model_5]
+    model_list = [model_1, model_2, model_3,model_4,model_5]
     
     return model_list
 
