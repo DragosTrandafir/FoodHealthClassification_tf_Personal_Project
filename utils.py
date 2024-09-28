@@ -2,10 +2,10 @@ import tensorflow as tf
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense
 
-
+# this function constructs an array with 5 different models
 def build_models():
     
-    tf.random.set_seed(20)
+    tf.random.set_seed(20) # ensure we get the same results every time we run the code
     
     model_1 = Sequential(
         [
