@@ -4,4 +4,6 @@ The file has multiple boxes, which should be run in order in Jupyter Notebook. H
 There are 25 input data examples, each with their own features (input) and their class (healthy/unhealthy) - denoted by 0(unhealthy) or 1(healthy) (output) given in a csv file. The user can also see how different models provide different errors and then can input some personal features and run the model to predict if the food whith those nutritional values is healthy or not.
 All the other details of the structure and the algorithms are explained next to the code in every box.
 
-In the UI box from the JN file, i put as input nutritional values of Nutella.
+The project is inspired by algorithms and ideas presented in the "Machine Learning Specialization" course, by Andrew Ng, from the Coursera official website.
+
+In the UI box from the JN file, I put as input nutritional values of Nutella.
