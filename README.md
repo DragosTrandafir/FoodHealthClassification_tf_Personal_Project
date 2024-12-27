@@ -9,4 +9,4 @@ Classification errors appear as numbers in the interval [0,1] and they represent
 The project is inspired by algorithms and ideas presented in the "Machine Learning Specialization" course, by Andrew Ng, from the Coursera official website.
 THIS PROJECT IS JUST EXPERIMENTAL, DO NOT RELY ON ITS RESULTS IN THE REAL WORLD.
 
-In the UI box from the JN file, I put as input nutritional values of Nutella.
+
